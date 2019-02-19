@@ -6,7 +6,7 @@ This repository includes my solution to the insight Data Engineering challenge. 
 * If either first name or last name is missing in a transaction, it is ignored. It is because the project is asking for exactly matching first name and last names and not using the ID.
 * The transactions made by health care providers such as Rite Aid are also ignored since they are not considered as individuals.
 * for float cost values the value is rounded to its nearest integer.
-*It is also assumed that python3 is used for executing the code. 
+* It is also assumed that python3 is used for executing the code. 
 
 # running the code
 
